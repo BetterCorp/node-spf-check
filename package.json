@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "ipaddr.js": "^1.8.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.17",
     "spf-parse": "^1.0.4",
     "tldjs": "^2.3.1"
   },
